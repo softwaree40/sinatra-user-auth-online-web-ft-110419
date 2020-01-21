@@ -1,0 +1,1 @@
+ User.create(name: "Wale", email:"wale@gmail.com", password: "123")
