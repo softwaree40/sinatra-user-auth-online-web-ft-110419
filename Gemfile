@@ -8,6 +8,7 @@ gem 'rake'
 gem 'require_all'
 gem 'sqlite3', '~>1.3.6'
 gem 'thin'
+gem "bcrypt"
 gem 'shotgun'
 gem 'pry'
 
